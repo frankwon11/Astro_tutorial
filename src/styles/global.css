@@ -38,7 +38,7 @@
     width: 100%;
     top: 5rem;
     left: 48px;
-    background-color: #ff9776;
+    /* background-color: #ff9776; */
     display: none;
     margin: 0;
   }
@@ -51,6 +51,7 @@
     font-size: 1.2rem;
     font-weight: bold;
     text-transform: uppercase;
+
   }
 
   .nav-links a:hover, a:focus {
@@ -76,6 +77,6 @@
     }
 
     .hamburger {
-        display: none;
+        display: non;
     }
   }
